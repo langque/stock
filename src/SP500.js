@@ -117,7 +117,9 @@ const stockInfo = [
     "Price/Book": 11.82,
     "ROA%": "13.12%",
     "Debt/Equity": 0
-  },
+  // },
+  }]
+  const secondePart = [
   {
     Symbol: "ABT",
     Name: "Abbott Laboratories",

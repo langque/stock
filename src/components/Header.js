@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Header() {
   return (
-    <div>
+    <header>
       <nav className="navbar navbar-light bg-light">
         <a className="navbar-brand">Navbar</a>
         <form className="form-inline">
@@ -20,6 +20,6 @@ export default function Header() {
           </button>
         </form>
       </nav>
-    </div>
+    </header>
   );
 }
