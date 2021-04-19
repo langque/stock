@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header>
       <nav className="navbar navbar-light bg-light">
-        <a className="navbar-brand">Navbar</a>
+        <a className="navbar-brand" href="/#">Navbar</a>
         <form className="form-inline">
           <input
             className="form-control mr-sm-2"

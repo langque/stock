@@ -14,6 +14,8 @@ export default function App() {
           Symbol={node.Symbol}
           Name={node.Name}
           Industry={node.Industry}
+          Image={node.image}
+          description={node.description}
         />
       ))}
       <Footer />
